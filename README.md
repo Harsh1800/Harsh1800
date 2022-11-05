@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Harsh1800" alt="Harsh1800"> 
 </div>
 
-<h3 align="center"><em>Math may not teach us how to solve a problem but it gives an idea every problem has solution.💯</em></h3>
+<h3 align="center"><em>Math's may not teach us how to solve a problem but it gives an idea,every problem has solution.💯</em></h3>
 
 <p>This is what I have learned over the past some years while studying in the field of Data Science. I am a Python loving Data Science and Machine Learning Practitioner and a Life-long learner. I am currently pusrsuing masters in statistics  </p>
 
